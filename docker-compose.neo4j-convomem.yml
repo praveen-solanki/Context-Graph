@@ -1,0 +1,32 @@
+# Fresh Neo4j for ConvoMem demo ingestion.
+# Leaves the existing cg-neo4j (bolt://localhost:7688) untouched.
+#
+#   docker compose -f docker-compose.neo4j-convomem.yml up -d
+#   Browser UI:  http://localhost:7476
+#   Bolt:        bolt://localhost:7689
+
+services:
+  neo4j:
+    image: neo4j:5.26-community
+    container_name: cg-neo4j-convomem
+    ports:
+      - "7476:7474"
+      - "7689:7687"
+    environment:
+      NEO4J_AUTH: neo4j/contextgraph
+      NEO4J_server_memory_heap_initial__size: 512m
+      NEO4J_server_memory_heap_max__size: 1G
+      NEO4J_server_memory_pagecache_size: 512m
+    volumes:
+      - cg_neo4j_convomem_data:/data
+      - cg_neo4j_convomem_logs:/logs
+    healthcheck:
+      test: ["CMD-SHELL", "wget -qO- http://localhost:7474 || exit 1"]
+      interval: 10s
+      timeout: 5s
+      retries: 12
+      start_period: 20s
+
+volumes:
+  cg_neo4j_convomem_data:
+  cg_neo4j_convomem_logs:

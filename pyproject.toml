@@ -1,0 +1,53 @@
+[project]
+name = "context-graph"
+version = "0.1.0"
+description = "Context Graph POC - ingestion and personalization layer"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.9",
+    "pydantic-settings>=2.5",
+    "neo4j>=5.25",
+    "pymongo>=4.13",
+    "httpx>=0.27",
+]
+
+[project.scripts]
+context-graph = "context_graph.cli:main"
+
+[dependency-groups]
+dev = [
+    "streamlit>=1.40",
+    "pytest>=8.3",
+    "pytest-asyncio>=0.24",
+    "pyright>=1.1.390",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/context_graph"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+asyncio_mode = "auto"
+addopts = ["--strict-markers", "--strict-config", "-ra"]
+markers = [
+    "unit: fast, isolated tests with no external services",
+    "e2e: the full ingestion pipeline against in-memory stores",
+    "ui: Streamlit page and terminal UI",
+    "integration: requires live Neo4j/MongoDB (opt in with CG_INTEGRATION=1)",
+]
+
+[tool.pyright]
+include = ["src", "tests", "test_conversation_generator", "convomem_benchmark_converter", "retrieval_tester", "ui"]
+venvPath = "."
+venv = ".venv"
+pythonVersion = "3.12"
+typeCheckingMode = "strict"
+reportMissingTypeStubs = false
+reportUnknownMemberType = false
+reportUnknownVariableType = false
+reportUnknownArgumentType = false

@@ -1,0 +1,38 @@
+{
+  "session": {
+    "session_id": "S-demo-1",
+    "user_id": "U123",
+    "agent_ids": ["agent-1"],
+    "messages": [
+      {
+        "message_id": "m1",
+        "timestamp": "2026-09-12T10:00:00+00:00",
+        "role": "user",
+        "sequence": 1,
+        "text": "From now on, always keep my answers concise."
+      },
+      {
+        "message_id": "m2",
+        "timestamp": "2026-09-12T10:00:05+00:00",
+        "role": "agent",
+        "agent_id": "agent-1",
+        "sequence": 2,
+        "text": "Understood, I will keep replies short."
+      },
+      {
+        "message_id": "m3",
+        "timestamp": "2026-09-12T10:01:00+00:00",
+        "role": "user",
+        "sequence": 3,
+        "text": "Our Search team deploys on Thursdays, by the way."
+      },
+      {
+        "message_id": "m4",
+        "timestamp": "2026-09-12T10:01:10+00:00",
+        "role": "user",
+        "sequence": 4,
+        "text": "thanks!"
+      }
+    ]
+  }
+}
