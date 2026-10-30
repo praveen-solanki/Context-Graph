@@ -6,5 +6,6 @@ __pycache__/
 logs/
 .ruff_cache/
 data/*
+!data/convomem_demo/
 !data/org_structure.json
 !data/README.md

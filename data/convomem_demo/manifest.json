@@ -1,0 +1,542 @@
+[
+  {
+    "folder": "preference_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "0bdcbe1f-5126-4a94-9e5c-a7a8c5a22e27",
+    "message_count": 90,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "ab2af6df-fd35-4dc9-a352-ebaaf4a02543",
+    "message_count": 84,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "9f1b5fd9-4871-4a12-9b9b-ce069d719bc0",
+    "message_count": 84,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "f511a04d-31e1-4eff-b80f-3caa6cc1306e",
+    "message_count": 96,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "a4385d30-faee-414c-a2d6-d661dbfaad30",
+    "message_count": 90,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "01c90c51-262e-416b-8ac6-0f593b8361e0",
+    "message_count": 88,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "82f1bd88-5d40-47a4-a04f-bb4669f5a5ab",
+    "message_count": 82,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "02a87b71-18e6-4664-91f2-6b94c65c6052",
+    "message_count": 82,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "b36785de-db62-49df-a8ab-81659d223faa",
+    "message_count": 80,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "827e225c-f083-4a48-87b0-3376302f9e5a",
+    "message_count": 84,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "7f94ab6d-d753-4fb7-a3e1-9bf54a733d48",
+    "message_count": 82,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "7c71819c-29a1-4805-953b-2f7280d1142e",
+    "message_count": 82,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "0cd51015-3031-4320-a580-ca1c8048d46e",
+    "message_count": 88,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "ea63b8ea-fbc0-4113-8ce6-0639824ea2c0",
+    "message_count": 82,
+    "median_threshold": 48
+  },
+  {
+    "folder": "preference_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "f842e857-c179-48e1-abb6-292fa0f8e1ce",
+    "message_count": 82,
+    "median_threshold": 48
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "89e78478-4256-4b9a-a96d-ae722be167af",
+    "message_count": 76,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "d46a9524-2586-42ca-bc40-ac9ebdc09bd4",
+    "message_count": 76,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "dfd88709-f978-4e8e-8660-327e1baa366f",
+    "message_count": 60,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "92570356-32d7-4313-9651-d9f5f8719af6",
+    "message_count": 80,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "51865e77-c683-4ad4-b8f0-612d2d5f7bf0",
+    "message_count": 78,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "202bdd0c-61fd-4369-82e6-a08a91b41c8c",
+    "message_count": 72,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "bcd30e14-a92d-487d-8c03-4cdef0da8028",
+    "message_count": 72,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "0ddd78fd-7a8c-4271-987a-deb8d8f96401",
+    "message_count": 66,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "3b619dd8-c68d-477a-9862-4b94e136b863",
+    "message_count": 60,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "b33551e0-2ce4-416b-b5cf-69812d38c8fd",
+    "message_count": 50,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "ef29b67c-8812-4435-a650-0103d37f469d",
+    "message_count": 50,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "277ef076-c2e3-4e43-bfd3-a692d5ebcdf2",
+    "message_count": 48,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "7ef409f0-c6f3-45f7-98dd-3252909cc04f",
+    "message_count": 92,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "9e18e293-ae6c-42b2-b504-058e0f581e6e",
+    "message_count": 88,
+    "median_threshold": 40
+  },
+  {
+    "folder": "changing_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "3495a238-493e-48f2-8823-9cd27cb47493",
+    "message_count": 60,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "41d4ab97-befd-4eec-afe9-0c0dd7fc48b4",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "a4c74498-cb3e-4859-b3f9-008ac559c008",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "ee1b317a-a9f8-4609-bcbf-cf91ee746008",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "0946554c-4f76-4557-b6d2-d566059cb39d",
+    "message_count": 86,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "f6bdb676-6bdb-4a1b-8b1e-fa72b16abaf7",
+    "message_count": 86,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "d21d5d6f-4105-430e-b762-994031bd1f65",
+    "message_count": 86,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "1650f942-615d-434c-9ac3-e64400882fb3",
+    "message_count": 88,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "866728a3-7012-4150-9131-e67e3f8d94d9",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "96421d52-2da9-476c-acbf-fb14ba490226",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "ec86a415-74eb-49f6-a980-b0ad67a09161",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "c5784fea-0073-4978-a394-414bf5bd17a7",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "0ade7527-38f9-4822-a0d1-baaa907fbf79",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "0be5bfcf-5d50-4d01-95d3-da72c0d63bf7",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "0f91f100-dc83-4511-ac47-1533e4fabaad",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "user_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "c56b129c-f5c3-4bc3-8005-0c772a092b56",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "53b6a04e-8944-48aa-b512-a7215ca9a234",
+    "message_count": 86,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "fedb99b1-b7a6-41e7-8671-3f018aff651a",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "46c13060-46dd-448f-b6c7-5e932c5e8a06",
+    "user_id": "U-46c13060",
+    "job_title": "SEOSEM_Specialist",
+    "session_id": "b877cf58-8444-4ae3-91d4-3a89543821c4",
+    "message_count": 80,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "a8b4478c-1ca5-4623-8e30-9d6c8d63f4d3",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "49afd866-e120-473c-a6af-cce862837790",
+    "message_count": 80,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "5d7bb371-4109-47a2-b1b8-c816675c69d3",
+    "user_id": "U-5d7bb371",
+    "job_title": "Lead_Qualification_Specialist",
+    "session_id": "7d84f0a2-c600-4561-bc21-09e92bc80388",
+    "message_count": 80,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "b36b4acd-b5b5-4546-837b-b38ebaa9f97f",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "fd692b22-8a86-4b72-a95c-a693fac31387",
+    "message_count": 80,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "c0069684-23da-42ed-9ed2-82ef3670e318",
+    "user_id": "U-c0069684",
+    "job_title": "Marketing_Manager",
+    "session_id": "ad735673-c9e4-4cb1-a637-3a0a3e463267",
+    "message_count": 55,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "dde51b2b-487e-4a3f-b611-6a95feffc1e0",
+    "message_count": 88,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "095c8ec5-2c31-4185-a1db-4f2dea84f841",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "21863ea9-dde4-4917-87d4-2c4af770144a",
+    "user_id": "U-21863ea9",
+    "job_title": "Events_Coordinator",
+    "session_id": "0c02bbaa-b1ee-4d9a-8881-a9152dd3d471",
+    "message_count": 82,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "d35ec315-5021-484c-ab03-54ed827a5f42",
+    "message_count": 84,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "54a07228-0a51-4299-8444-fbbe42f8052f",
+    "message_count": 78,
+    "median_threshold": 40
+  },
+  {
+    "folder": "implicit_connection_evidence",
+    "person_id": "c12db717-07a1-4c9e-b8cc-63e2b2226dfc",
+    "user_id": "U-c12db717",
+    "job_title": "Email_Marketing_Coordinator",
+    "session_id": "8bbdefb2-ddd6-4f89-8aa4-bab0cbaeabe5",
+    "message_count": 76,
+    "median_threshold": 40
+  }
+]

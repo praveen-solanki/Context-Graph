@@ -1,6 +1,6 @@
 # Data
 
-Input files for the Context Graph pipeline. Everything here is read by a command; nothing in this folder is code. Only this README and `org_structure.json` are tracked by git, because the datasets are large and can be rebuilt or downloaded.
+Input files for the Context Graph pipeline. Everything here is read by a command; nothing in this folder is code. Git tracks this README, `org_structure.json`, and `convomem_demo/`. The raw benchmark in `convomem/` stays local, because it is about 830 MB and the demo set is built from it.
 
 | Path | What it is | Used by |
 | --- | --- | --- |
